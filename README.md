@@ -1,11 +1,6 @@
-<h1>
-  <sub>
-    <a href="https://github.com/Komonodrg-portfolio">🏠️ Home</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> |  
-    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> |
-    <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> |
-  </sub>
-</h1>
+### [Home](https://github.com/Komonodrg-portfolio) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Mission](https://github.com/Komonodrg-portfolio/Mission/)
+
+
 
 # 🖼️ Media Creation
 
@@ -37,7 +32,7 @@ Text/Script	Notion, Google Docs	Scripting tutorials or video outlines
 Browser Plugins	Loom, Tango	Quick capture + workflow documentation
 
 
-<h2>🪂 <em>One Man's Thoughts...</em></h2>
+<h2>🪂 <em>"One Man's Thoughts..."</em></h2>
 ... 
 
 <br>Colleagues, Onward.<br> 
