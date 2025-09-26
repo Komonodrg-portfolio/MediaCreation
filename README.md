@@ -33,8 +33,8 @@ Browser Plugins	Loom, Tango	Quick capture + workflow documentation
 
 <h2>📂 Projects</h2>
 
-- <b>Building Robust Networking Home Lab</b>
-  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Portfolio Website Creation with Github</b>
+  - [Github Portfolio Website](https://github.com/Komonodrg-portfolio/---MC---Github_Portfolio_Creation)
 
 
 <h2>🪂 <em>"One Man's Thoughts..."</em></h2>
