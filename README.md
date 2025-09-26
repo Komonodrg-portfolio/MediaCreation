@@ -22,7 +22,7 @@ The goal is to provide a transparent look into the behind-the-scenes production 
 - <b>To inspire others on how to document and share their technical journey</b>
 - <b>To organize media assets for reuse and collaboration</b>
 
-🛠️ Tools & Software
+## 🛠️ Tools & Software
 Type	Tool	Purpose
 Screen Capture	OBS Studio, Snagit	Recording tutorials and walkthroughs
 Video Editing	DaVinci Resolve, CapCut	Editing videos for YouTube & TikTok
@@ -30,6 +30,11 @@ Image Editing	Canva, Photoshop	Thumbnails, social visuals, GitHub headers
 Audio	Audacity, Krisp	Voiceovers, noise reduction
 Text/Script	Notion, Google Docs	Scripting tutorials or video outlines
 Browser Plugins	Loom, Tango	Quick capture + workflow documentation
+
+<h2>📂 Projects</h2>
+
+- <b>Building Robust Networking Home Lab</b>
+  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>🪂 <em>"One Man's Thoughts..."</em></h2>
