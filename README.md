@@ -36,7 +36,7 @@ Browser Plugins	Loom, Tango	Quick capture + workflow documentation
 <h2>📂 Projects</h2>
 
 - <b>Portfolio Website Creation with Github</b>
-  - [Github Portfolio Webpage Creation](https://github.com/Komonodrg-portfolio/---MC---Github_Portfolio_Creation)
+  - <b>[Github Portfolio Webpage Creation](https://github.com/Komonodrg-portfolio/---MC---Github_Portfolio_Creation)</b>
 
 
 <h2>🪂 <em>"One Man's Thoughts..."</em></h2>
