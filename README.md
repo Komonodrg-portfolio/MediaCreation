@@ -48,7 +48,7 @@ Browser Plugins	Loom, Tango	Quick capture + workflow documentation
    
 Though pretty tech savy, my experience in <b>Media Creation</b> was in it's infancy.  Leveraging the power of AI, I was able to get pretty current through curiosity and consistency.  Knowing the importance of branding now-adays in a culture where attention spans are diminishing (a gift & a curse of technology in the ease it provides), sometimes it's just not about knowledgability, but visibility.<br>
 <br>
-While leveling up my experience in my IT professional interests, I felt the need not only to continue my learning journey but to concurrently show how to effectively market yourself.  Given my [mission](https://github.com/Komonodrg-portfolio/Mission/tree/main) for this portfolio repo, I aim to show how went from intially crawling to running towards my career passions. I hope this repo serves as a great benefit to all in their pursuits.<br>
+While leveling up my experience in my IT professional interests, I felt the need not only to continue my learning journey but to concurrently show how to effectively market yourself.  Given my [mission](https://github.com/Komonodrg-portfolio/Mission/tree/main) for this portfolio repo, I aim to show how I went from intially crawling to running towards my career passions. I hope this repo serves as a great benefit to all in their pursuits.<br>
 <br> 
 
 Colleages, Onward.
@@ -65,23 +65,7 @@ Colleages, Onward.
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[tiktok]: https://tiktok.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[tiktok]: https://tiktok.com/upcoming...
+[youtube]: https://www.youtube.com/@EvenSteveTech
+[instagram]: https://www.instagram.com/upcoming...
+[linkedin]: https://www.linkedin.com/in/steven-komono-71790197/
